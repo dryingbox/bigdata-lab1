@@ -51,5 +51,3 @@ hadoop jar lab1-part3.jar Dedup /lab1/dedup /lab1/out/dedup
 ## 实验报告
 
 代码仓库（公开）：**https://github.com/dryingbox/bigdata-lab1**
-
-实验报告提交至课程邮箱，报告中已附本仓库链接。
