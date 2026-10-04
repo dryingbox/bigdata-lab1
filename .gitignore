@@ -1,0 +1,12 @@
+# Java build artifacts
+*.class
+build/
+*.jar
+
+# Local outputs / logs
+output/
+*.log
+
+# Editor
+*.swp
+*~
