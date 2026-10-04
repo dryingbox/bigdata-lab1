@@ -6,7 +6,7 @@
 
 | 部分 | 内容 | 目录 |
 |---|---|---|
-| 第一部分 | 熟悉常用的 Linux 操作和 Hadoop 操作（21 项） | `part1/` |
+| 第一部分 | 熟悉常用的 Linux 操作和 Hadoop 操作（21 项） | —（纯命令操作，见实验报告） |
 | 第二部分 | 熟悉常用的 HDFS 操作（Java API + Shell，10 项） | `part2/` |
 | 第三部分 | MapReduce 初级编程（合并去重、排序、祖孙关系挖掘） | `part3/` |
 
@@ -20,9 +20,6 @@
 
 ```
 lab1/
-├── part1/                  # Linux 与 Hadoop 基本操作
-│   ├── linux-hadoop-commands.md
-│   └── run-part1.sh
 ├── part2/                  # HDFS 操作
 │   ├── HDFSAPI.java        # 10 个功能的 Java API 实现
 │   └── shell.md            # 10 个功能对应的 Shell 命令
